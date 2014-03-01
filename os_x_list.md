@@ -26,7 +26,12 @@ iStat Menus which shows in the top menubar cpu temperature + bandwidth consumpti
 
 http://bjango.com/mac/istatmenus/ 
  
-My all time favourite and lifesaver is Yojimbo. I take notes, archive web pages and keep passwords and serials in this.
+Flux makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day. (Free)
+
+http://justgetflux.com
+ 
+ 
+My all time lifesaver is Yojimbo. I take notes, archive web pages and keep passwords and serials in this.
 
 http://www.barebones.com/products/yojimbo/ (Purchase)
  
