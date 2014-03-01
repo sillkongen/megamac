@@ -9,9 +9,11 @@ Package manager for OS X. You just install the development tools and homebrew an
 http://mxcl.github.io/homebrew/
 
 Sublimetext (Purchase)
+
 http://www.sublimetext.com/2
 
 Textwrangler a text editor for OS X. (Free)
+
 http://www.barebones.com/products/textwrangler/
  
 Adium for instant messaging which is the best IM tool on the planet. It takes minimum amount of space on my screen. (Free)
@@ -23,6 +25,7 @@ Sourcetree a good GUI GIT client for OS X. (Free)
 http://www.sourcetreeapp.com/
  
 iStat Menus which shows in the top menubar cpu temperature + bandwidth consumption (down to an application level) + memory + cpu load. (Purchase)
+
 http://bjango.com/mac/istatmenus/ 
  
 My all time favourite and lifesaver is Yojimbo. I take notes, archive web pages and keep passwords and serials in this.
