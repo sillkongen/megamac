@@ -1,6 +1,4 @@
-Configuration:
-
-Dotfiles (Free)
+Configuration with Dotfiles from Mathias Bynens (Free)
 
 http://mths.be/osx
 
