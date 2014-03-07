@@ -44,6 +44,7 @@ X11 (named Xquartz for OS X). (Free)
 http://xquartz.macosforge.org/landing/
 
 Turn off animation in Apple Mail application
+
 https://github.com/AndreasVerhoeven/NoMailAppAnimationsOnMavericks
  
 Virtualbox is what I have been using for years. I have purchased licenses for VMWare + Parallels. I do though always end up using Vbox from Oracle since it gives me cross platform compatibility. (Free)
