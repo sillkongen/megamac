@@ -17,6 +17,11 @@ http://www.barebones.com/products/textwrangler/
 Adium for instant messaging which is the best IM tool on the planet. It takes minimum amount of space on my screen. (Free)
 
 http://adium.im/
+
+Lync plugin for Adium, to be able to replace Microsoft Communicator. (Free)
+
+http://sourceforge.net/projects/sipe/files/sipe/pidgin-sipe-1.18.1/pidgin-sipe-1.18.1-adium-1.5.9-macosx10.8.zip/download
+
  
 Sourcetree a good GUI GIT client for OS X. (Free)
 
